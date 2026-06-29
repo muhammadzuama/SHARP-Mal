@@ -1,0 +1,9 @@
+Group,N Model,N Fold,Statistic,p-value,Signifikan (p<0.05)
+Baseline,3,5,5.2,0.0743,False
+10,3,5,3.6,0.1653,False
+20,3,5,6.4,0.0408,True
+30,3,5,7.6,0.0224,True
+40,3,5,8.4,0.015,True
+50,3,5,8.3158,0.0156,True
+60,3,5,5.1579,0.0759,False
+70,3,5,7.6,0.0224,True
